@@ -1,32 +1,35 @@
-.frm{
 
-  margin-left: 2vw;
-  margin-right: 2vw;
 
-}
-
-.tlc{
-  margin-top: 5vh;
+.al{
+  margin-left: 8vw;
+  margin-top: 4vh;
 
 }
 
 ion-button{
+
   --border-radius:10px;
 
   --box-shadow: 0px;
 
   width: 20vw;
 
-  height: 8vh;
+  height: 10vh;
+
+
+
 }
 
-.ReOp{
+ion-card{
+  margin-top: 4vh;
+  height: 10vh;
 
-  margin-top: 5vh;
 }
 
 ion-content{
   font-weight:bold ;
+  --background: #61605d;
 }
+
 
 
